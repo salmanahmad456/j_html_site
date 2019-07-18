@@ -21,7 +21,7 @@ git pull origin master --no-edit
 git pull upstream master --allow-unrelated-histories --no-edit
 
 # Delay for 5 seconds
-sleep 5
+sleep 20
 
 # Stage all untracked files 
 git add .
